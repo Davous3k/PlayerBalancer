@@ -20,9 +20,9 @@
     <url>https://www.spigotmc.org/resources/bungeecord-playerbalancer.10788/</url>
 
     <scm>
-        <connection>scm:git:https://github.com/jamezrin/PlayerBalancer.git</connection>
-        <developerConnection>scm:git:git@github.com:jamezrin/PlayerBalancer.git</developerConnection>
-        <url>https://github.com/jamezrin/PlayerBalancer</url>
+        <connection>scm:git:https://github.com/Davous3k/PlayerBalancer.git</connection>
+        <developerConnection>scm:git:git@github.com:Davous3k/PlayerBalancer.git</developerConnection>
+        <url>https://github.com/Davous3k/PlayerBalancer</url>
     </scm>
 
     <ciManagement>
@@ -32,7 +32,7 @@
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/jamezrin/PlayerBalancer/issues</url>
+        <url>https://github.com/Davous3k/PlayerBalancer/issues</url>
     </issueManagement>
 
     <properties>
