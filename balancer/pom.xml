@@ -54,7 +54,7 @@
         </repository>
         <repository>
             <id>bstats-repo</id>
-            <url>https://mvnrepository.com/artifact/org.bstats/bstats-bungeecord/</url>
+            <url>http://repo.bstats.org/content/repositories/releases/</url>
         </repository>
         <repository>
             <id>codemc-repo</id>
@@ -90,10 +90,11 @@
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.bstats/bstats-bungeecord -->
 <dependency>
-    <groupId>org.bstats</groupId>
-    <artifactId>bstats-bungeecord</artifactId>
-    <version>1.2</version>
-</dependency>
+            <groupId>org.bstats</groupId>
+            <artifactId>bstats-bungeecord</artifactId>
+            <version>1.4</version>
+            <scope>compile</scope>
+        </dependency>
 
     </dependencies>
 </project>
